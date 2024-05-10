@@ -19,7 +19,7 @@ public class Zad5 {
     public void FillTable (int[] table, Random random)
     {
         for (int i = 0; i < table.length; i++) {
-            table[i] = random.nextInt(10)+1;
+            table[i] = random.nextInt(11);
         }
     }
 
