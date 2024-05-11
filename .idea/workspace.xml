@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="765aea9f-0b79-4c18-a132-66135dcaaafe" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/Zad6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zad10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zad7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zad8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zad9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zad5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zad5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JakubSzender"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JakubSzender/lab4.git",
+    "accountId": "5e16f662-ae56-45a8-8234-95b88d7e58cc"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gHVvYf3B804sVW8qhCjAAFhpYY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,9 +52,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/VoXer/IdeaProjects/lab3/src/Main.java"
   }
 }]]></component>
